@@ -1,7 +1,7 @@
-# This is a sample Python script.
+# Это пример скрипта на Python.
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# Нажмите Shift+F10, чтобы выполнить его или заменить своим кодом.
+# Нажмите двойную комбинацию клавиш для поиска классов, файлов, окон инструментов, действий и настроек по всему миру.
 
 
 def print_hi(name):

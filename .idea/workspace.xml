@@ -1,26 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7718c844-9224-4b8e-b8bd-fa5091b060c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/WebDJProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2kLEbCbb8vBlaytsIIt226fouoo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,7 +52,8 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.toDoOptions"
   }
 }]]></component>
   <component name="RunManager">
