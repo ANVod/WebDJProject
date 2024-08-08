@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7718c844-9224-4b8e-b8bd-fa5091b060c3" name="Changes" comment="" />
+    <list default="true" id="7718c844-9224-4b8e-b8bd-fa5091b060c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/templates/main/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/templates/main/layoute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/templates/main/nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/main/templates/main/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WebDJProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WebDJProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/main/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -31,10 +41,11 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.toDoOptions&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RunManager">
