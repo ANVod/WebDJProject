@@ -1,0 +1,11 @@
+{% load static %}
+<div class="bg-light p-3" style="min-width: 200px;">
+    <img src="{% static 'main/img/logo.png' %}" alt="Логотип" class="img-fluid mb-3">
+    <h4>LogoDjango</h4>
+    <ul class="nav flex-column">
+        <li class="nav-item"><a class="nav-link" href="{% url 'home' %}">Главная</a></li>
+        <li class="nav-item"><a class="nav-link" href="{% url 'about' %}">О нас</a></li>
+        <li class="nav-item"><a class="nav-link" href="{% url 'services' %}">Услуги</a></li>
+        <li class="nav-item"><a class="nav-link" href="{% url 'contact' %}">Контакты</a></li>
+    </ul>
+</div>
