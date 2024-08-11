@@ -1,22 +1,37 @@
+
 {% load static %}
-<! doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport"
-        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="{% static 'main/css/main.css' %}">
     {% block title %}
+    <title>Мой Вебсайт</title>
     {% endblock %}
 </head>
-<body>
-    <aside>
-        <img src="{% static 'main/img/logo.png' %}" alt="Какой-то логотип">
+<body class="d-flex flex-column min-vh-100">
+    <aside class="bg-light p-3">
+        <div class="container text-center">
+            <img src="{% static 'main/img/logo.png' %}" alt="Какой-то логотип" class="img-fluid">
+        </div>
     </aside>
-    <main>
+    <main class="container my-4">
         {% block content %}
+        <div class="alert alert-info" role="alert">
+            Добро пожаловать на мой вебсайт!
+        </div>
         {% endblock %}
     </main>
+    <footer class="bg-dark text-white text-center py-3 mt-auto">
+        <div class="container">
+            &copy; 2023 Мой Вебсайт. Все права защищены.
+        </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
