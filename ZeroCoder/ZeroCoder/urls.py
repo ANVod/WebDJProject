@@ -15,11 +15,13 @@
 # 2. Добавляем URL в urlpatterns: path('блог/', include('блог.urls'))
 # """
 from django.contrib import admin
-from django.urls import include, path
+from django.urls import path, include
+from main import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', views.home, name='home'),
+    path('index/', views.index, name='index'),
+    path('new/', views.new, name='new'),
     path('', include('main.urls')),
-    path('', include('myapp.urls')),
 ]
-

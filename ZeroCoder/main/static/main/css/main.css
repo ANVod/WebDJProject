@@ -1,4 +1,25 @@
-#{% load static %}
 body {
-    background-color: deeppink;
+    font-family: Arial, sans-serif;
+}
+
+aside {
+    border-right: 1px solid #ddd;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #333;
+}
+
+.nav-link:hover {
+    color: #007bff;
+    text-decoration: none;
+}
+
+main {
+    background-color: #f8f9fa;
+    min-height: 100vh;
 }
