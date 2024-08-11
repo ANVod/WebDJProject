@@ -4,6 +4,6 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
-    path('index/', views.index, name='index'),
-    path('new/', views.new, name='new'),
+    path('', views.index, name='home'),
+    path('new', views.new, name='page2')
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
