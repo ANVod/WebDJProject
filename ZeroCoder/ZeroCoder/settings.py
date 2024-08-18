@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     #'myapp',
     'main',
+    'news',
     'ZeroCoder',
     'django.contrib.admin',
     'django.contrib.auth',

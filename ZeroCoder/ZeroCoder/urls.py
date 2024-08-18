@@ -24,4 +24,5 @@ urlpatterns = [
     path('index/', views.index, name='index'),
     path('new/', views.new, name='new'),
     path('', include('main.urls')),
+    path('news/', include('news.urls'))
 ]
