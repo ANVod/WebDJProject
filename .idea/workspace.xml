@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7718c844-9224-4b8e-b8bd-fa5091b060c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/news/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroCoder/main/templates/main/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/main/templates/main/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroCoder/news/templates/news/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/news/templates/news/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroCoder/news/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/news/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroCoder/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/news/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/news/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/news/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ANVod"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ANVod&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ANVod/WebDJProject.git",
-    "accountId": "0529df50-62d2-44a7-b2d4-df57c6b1746e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ANVod/WebDJProject.git&quot;,
+    &quot;accountId&quot;: &quot;0529df50-62d2-44a7-b2d4-df57c6b1746e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -48,20 +47,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\avody\Documents\GitHub\WebDJProject\ZeroCoder" />
+      <recent name="C:\Users\avody\Documents\GitHub\WebDJProject\ZeroCoder\news" />
+      <recent name="C:\Users\avody\Documents\GitHub\WebDJProject\ZeroCoder\ZeroCoder" />
       <recent name="C:\Users\ABC\PycharmProjects\ProjectParsing\WebDJProject\ZeroCoder\ZeroCoder" />
       <recent name="C:\Users\ABC\PycharmProjects\ProjectParsing\WebDJProject\ZeroCoder\news" />
-      <recent name="C:\Users\ABC\PycharmProjects\ProjectParsing\WebDJProject\ZeroCoder\main\templates\main" />
     </key>
   </component>
   <component name="RunManager">
