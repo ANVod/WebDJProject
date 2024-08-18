@@ -7,3 +7,5 @@ def home(request):
 
 
 # Create your views here.
+def news(request):
+    return render(request, 'news/news.html')
