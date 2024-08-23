@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7718c844-9224-4b8e-b8bd-fa5091b060c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_11_08_2024_20_53_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/ZeroCoder/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/news/templates/news/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/news/templates/news/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/news/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +52,7 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
@@ -55,11 +60,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ABC\PycharmProjects\WebDJProject\ZeroCoder\news" />
       <recent name="C:\Users\avody\Documents\GitHub\WebDJProject\ZeroCoder" />
       <recent name="C:\Users\avody\Documents\GitHub\WebDJProject\ZeroCoder\news" />
       <recent name="C:\Users\avody\Documents\GitHub\WebDJProject\ZeroCoder\ZeroCoder" />
       <recent name="C:\Users\ABC\PycharmProjects\ProjectParsing\WebDJProject\ZeroCoder\ZeroCoder" />
-      <recent name="C:\Users\ABC\PycharmProjects\ProjectParsing\WebDJProject\ZeroCoder\news" />
     </key>
   </component>
   <component name="RunManager">
