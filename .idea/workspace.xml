@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7718c844-9224-4b8e-b8bd-fa5091b060c3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_08_2024_16_21__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_08_2024_16_21__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroCoder/news/templates/news/create_news.html.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroCoder/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ZeroCoder/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/main/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZeroCoder/news/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/news/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZeroCoder/news/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/news/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZeroCoder/news/templates/news/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroCoder/news/templates/news/news.html" afterDir="false" />
@@ -22,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
